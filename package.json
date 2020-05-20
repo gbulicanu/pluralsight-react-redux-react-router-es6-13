@@ -6,8 +6,8 @@
     "start:dev": "webpack-dev-server --config webpack.config.dev.js --port 3000",
     "prestart:api": "node tools/createMockDb.js",
     "start:api": "node tools/apiServer.js",
-    "test": "jest",
-    "test:watch": "jest --watch"
+    "test:ci": "jest",
+    "test": "jest --watch"
   },
   "jest": {
     "setupFiles": [

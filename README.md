@@ -1,3 +1,5 @@
+![CI](https://github.com/gbulicanu/pluralsight-react-redux-react-router-es6-13/workflows/CI/badge.svg)
+
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
@@ -20,7 +22,7 @@
 ### Production Dependencies
 
 | **Dependency**   | **Use**                                              |
-| ---------------- | ---------------------------------------------------- |
+|------------------|------------------------------------------------------|
 | bootstrap        | CSS Framework                                        |
 | immer            | Helper for working with immutable data               |
 | prop-types       | Declare types for props passed into React components |
@@ -36,7 +38,7 @@
 ### Development Dependencies
 
 | **Dependency**                  | **Use**                                                          |
-| ------------------------------- | ---------------------------------------------------------------- |
+|---------------------------------|------------------------------------------------------------------|
 | @babel/core                     | Transpiles modern JavaScript so it runs cross-browser            |
 | babel-eslint                    | Lint modern JavaScript via ESLint                                |
 | babel-loader                    | Add Babel support to Webpack                                     |
